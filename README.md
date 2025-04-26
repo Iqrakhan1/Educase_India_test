@@ -5,6 +5,8 @@ This is a modern and responsive web application built using React.js, Vite, and 
 ---
 ## Preview
 
+Live at : -https://educase-india-test.vercel.app/
+
  Home.jsx
 
 ![alt text](image-1.png)
