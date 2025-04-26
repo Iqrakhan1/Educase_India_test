@@ -75,4 +75,4 @@ By default, the project will run at:
 http://localhost:5173/
 ```
 
-
+Happy coding :)
